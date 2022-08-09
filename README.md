@@ -1,5 +1,5 @@
 # Rinkeby-Contract-Deployment
-Deployed a contract to a Ganache Local Network and then to the Ethereum Rinkeby Test Network.
+Deployed a Smart Contract to a Ganache Local Network and then to the Ethereum Rinkeby Test Network.
 
 Resources Used:
 Solidity,
