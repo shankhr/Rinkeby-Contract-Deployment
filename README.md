@@ -8,8 +8,8 @@ Remix,
 Ganache,
 Web3,
 Mocha,
-Node,
 VS Code,
 Node.js,
 npm,
-GitBash
+GitBash,
+Infura.
